@@ -1,2 +1,2 @@
 # webscraping
-My repository for the webscraping workshop
+My repository for the webscraping workshop by Gerome
